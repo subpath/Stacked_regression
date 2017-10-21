@@ -1,2 +1,7 @@
-# stacked_regression
-Example of very basic stacked regression
+# Kaggle's [House Prices challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
+iPython notebook shows first attempt to solve Kaggle challenge with simple stacking technique
+
+
+https://github.com/subpath/Stacked_regression/blob/master/Stacking%20Regression.ipynb
+
