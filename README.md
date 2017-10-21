@@ -2,6 +2,5 @@
 
 iPython notebook shows first attempt to solve Kaggle challenge with simple stacking technique
 
-
-https://github.com/subpath/Stacked_regression/blob/master/Stacking%20Regression.ipynb
+# Check the [iPython Notebook](https://github.com/subpath/Stacked_regression/blob/master/Stacking%20Regression.ipynb)
 
